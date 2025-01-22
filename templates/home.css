@@ -1,0 +1,20 @@
+.mtag
+    { 
+        padding: 10px;
+        margin: 80px;
+        margin-left: 190px;
+        height: 140px; 
+        width: 80%; 
+        display: flex;
+        align-items: center;
+        background-color: rgba(9, 2, 29, 0.9);
+        border: 5px  solid pink;
+        
+    }
+    h1
+    {
+        margin-bottom: 90px; 
+        margin-left:400px;
+        
+
+    }
